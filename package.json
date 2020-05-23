@@ -4,7 +4,7 @@
   "description": "React component for Bootstrap Icons",
   "main": "build/index.js",
   "module": "dist/index.js",
-  "files": ["dist/*]",
+  "files": ["dist/**"],
   "repository": "https://github.com/ismamz/react-bootstrap-icons",
   "author": "Ismael Martínez",
   "license": "MIT",
